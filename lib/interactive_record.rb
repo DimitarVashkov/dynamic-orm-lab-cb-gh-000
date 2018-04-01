@@ -6,5 +6,5 @@ class InteractiveRecord
   def self.table_name
     self.class.downcase.pluralize
   end
-  
+
 end
